@@ -86,6 +86,7 @@ JavaScript API for TON
 ## Community & Local resources
 
 - [(English) Copperbits community: TON Research](https://t.me/ton_research) - Developer driven updates about project. (09.09.2019: 493 members)
+-(English) RANNTA — Creator-first NFT marketplace built on The Open Network (TON). Website: https://ranntaverse.art
 - [(Russian) TONgramDev](https://t.me/TONgramDev) - Russian Telegram chat (03.07.2019: 96 members).
 - [(French) GRAM & TON FRANCE](https://t.me/gramfr) - Groupe d’échange sur blockchain TON et Crypto Gram en français (23.09.2019: 49 members).
 - [(Spanish) TON Es](https://t.me/ton_es) - Spanish Telegram chat (23.09.2019: 44 members)
